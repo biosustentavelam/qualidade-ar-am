@@ -1,84 +1,84 @@
 {
- "quando": "2026-10-14T10:31",
+ "quando": "2026-10-14T11:34",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 23.4,
+   "pm": 19.2,
    "n": 1,
    "nivel": "Boa"
   },
   "Anamã": {
-   "pm": 18.9,
+   "pm": 20.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Apuí": {
-   "pm": 48.6,
+   "pm": 53.1,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Autazes": {
-   "pm": 191.4,
+   "pm": 162.1,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Barcelos": {
-   "pm": 15.1,
+   "pm": 15.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Barreirinha": {
-   "pm": 54.9,
+   "pm": 48.4,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Benjamin Constant": {
-   "pm": 9.1,
+   "pm": 9.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Beruri": {
-   "pm": 1.5,
+   "pm": 1.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Boa Vista do Ramos": {
-   "pm": 59.7,
+   "pm": 46.7,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Boca do Acre": {
-   "pm": 15.5,
+   "pm": 15.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Borba": {
-   "pm": 47.8,
+   "pm": 49.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 14.0,
+   "pm": 16.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 8.7,
+   "pm": 9.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Careiro": {
-   "pm": 59.4,
+   "pm": 55.0,
    "n": 1,
    "nivel": "Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 84.4,
+   "pm": 73.8,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Ruim"
   },
   "Envira": {
-   "pm": 13.6,
+   "pm": 13.0,
    "n": 1,
    "nivel": "Boa"
   },
@@ -88,94 +88,89 @@
    "nivel": "Moderada"
   },
   "Itacoatiara": {
-   "pm": 162.4,
+   "pm": 136.9,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Itapiranga": {
-   "pm": 117.2,
+   "pm": 88.0,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 7.5,
+   "pm": 8.0,
    "n": 1,
    "nivel": "Boa"
   },
   "Jutaí": {
-   "pm": 6.5,
+   "pm": 6.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Lábrea": {
-   "pm": 11.4,
+   "pm": 12.8,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 214.2,
+   "pm": 171.0,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Manaus": {
-   "pm": 75.7,
-   "n": 15,
-   "nivel": "Muito Ruim"
+   "pm": 68.4,
+   "n": 14,
+   "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 34.2,
+   "pm": 41.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 1.2,
+   "pm": 1.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 214.6,
+   "pm": 204.1,
    "n": 2,
    "nivel": "Péssimo"
   },
   "Nhamundá": {
-   "pm": 40.3,
+   "pm": 38.1,
    "n": 1,
    "nivel": "Moderada"
   },
   "Nova Olinda do Norte": {
-   "pm": 112.0,
+   "pm": 105.3,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Novo Airão": {
-   "pm": 34.2,
+   "pm": 32.7,
    "n": 2,
    "nivel": "Moderada"
   },
   "Novo Aripuanã": {
-   "pm": 52.9,
+   "pm": 54.2,
    "n": 1,
    "nivel": "Ruim"
   },
   "Parintins": {
-   "pm": 63.5,
+   "pm": 49.5,
    "n": 3,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Pauini": {
-   "pm": 5.7,
+   "pm": 6.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Rio Preto da Eva": {
-   "pm": 61.1,
+   "pm": 53.5,
    "n": 1,
    "nivel": "Ruim"
-  },
-  "Santa Isabel do Rio Negro": {
-   "pm": 0.1,
-   "n": 1,
-   "nivel": "Boa"
   },
   "Santo Antônio do Içá": {
    "pm": 6.8,
@@ -183,39 +178,39 @@
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 49.0,
+   "pm": 56.0,
    "n": 2,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 2.6,
+   "pm": 2.2,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 43.6,
+   "pm": 34.9,
    "n": 3,
    "nivel": "Moderada"
   },
   "Tabatinga": {
-   "pm": 7.9,
+   "pm": 7.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 37.3,
+   "pm": 39.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 13.7,
+   "pm": 13.8,
    "n": 2,
    "nivel": "Boa"
   },
   "Urucurituba": {
-   "pm": 127.8,
+   "pm": 107.8,
    "n": 1,
-   "nivel": "Péssimo"
+   "nivel": "Muito Ruim"
   }
  }
 }
