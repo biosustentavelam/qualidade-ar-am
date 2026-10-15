@@ -32,7 +32,7 @@ def municipio(lon, lat):
 
 
 def main():
-    q = dict(fields="latitude,longitude,last_seen,pm2.5_60minute,confidence,channel_flags",
+    q = dict(fields="latitude,longitude,last_seen,pm2.5_10minute,confidence,channel_flags",
              location_type="0", nwlng="-73.9", nwlat="2.3", selng="-56.0", selat="-9.9", max_age="7200")
     req = urllib.request.Request("https://api.purpleair.com/v1/sensors?" + urllib.parse.urlencode(q),
                                  headers={"X-API-Key": os.environ["PURPLEAIR_KEY"]})
@@ -41,7 +41,7 @@ def main():
     por_mun = {}
     for linha in d["data"]:
         s = dict(zip(F, linha))
-        pm = s["pm2.5_60minute"]
+        pm = s["pm2.5_10minute"]
         if pm is None or pm <= 0 or s["confidence"] < 50 or s["channel_flags"] != 0 or agora - s["last_seen"] > 3600:
             continue
         m = municipio(s["longitude"], s["latitude"])
