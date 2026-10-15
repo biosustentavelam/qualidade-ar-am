@@ -1,7 +1,7 @@
 name: Qualidade do ar (a cada 30 min)
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
