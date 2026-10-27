@@ -1,214 +1,214 @@
 {
- "quando": "2026-10-27T18:18",
+ "quando": "2026-10-27T18:59",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 9.3,
+   "pm": 11.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Anamã": {
-   "pm": 6.2,
+   "pm": 6.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 84.8,
+   "pm": 88.2,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Barcelos": {
-   "pm": 28.8,
+   "pm": 25.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Barreirinha": {
-   "pm": 90.7,
+   "pm": 99.0,
    "n": 1,
    "nivel": "Muito Ruim"
   },
-  "Beruri": {
-   "pm": 0.6,
+  "Benjamin Constant": {
+   "pm": 18.2,
    "n": 1,
    "nivel": "Boa"
   },
-  "Boa Vista do Ramos": {
-   "pm": 33.7,
+  "Beruri": {
+   "pm": 0.4,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Boa"
   },
   "Boca do Acre": {
-   "pm": 50.3,
+   "pm": 67.5,
    "n": 2,
    "nivel": "Ruim"
   },
   "Borba": {
-   "pm": 43.4,
+   "pm": 40.7,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 16.3,
+   "pm": 20.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 31.3,
+   "pm": 26.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro": {
-   "pm": 55.8,
+   "pm": 55.3,
    "n": 1,
    "nivel": "Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 64.6,
+   "pm": 66.0,
    "n": 1,
    "nivel": "Ruim"
   },
   "Guajará": {
-   "pm": 33.0,
+   "pm": 32.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Humaitá": {
-   "pm": 37.1,
+   "pm": 33.2,
    "n": 3,
    "nivel": "Moderada"
   },
   "Iranduba": {
-   "pm": 116.4,
+   "pm": 113.8,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 70.5,
+   "pm": 75.3,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "Itapiranga": {
-   "pm": 78.7,
+   "pm": 83.4,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 38.8,
+   "pm": 42.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Lábrea": {
-   "pm": 19.2,
+   "pm": 20.5,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 46.3,
+   "pm": 47.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Manaus": {
-   "pm": 57.4,
+   "pm": 62.6,
    "n": 14,
    "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 35.4,
+   "pm": 45.9,
    "n": 2,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 18.6,
+   "pm": 19.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 48.2,
+   "pm": 51.2,
    "n": 2,
-   "nivel": "Moderada"
-  },
-  "Nhamundá": {
-   "pm": 74.0,
-   "n": 1,
    "nivel": "Ruim"
   },
+  "Nhamundá": {
+   "pm": 76.2,
+   "n": 1,
+   "nivel": "Muito Ruim"
+  },
   "Nova Olinda do Norte": {
-   "pm": 65.4,
+   "pm": 61.4,
    "n": 1,
    "nivel": "Ruim"
   },
   "Novo Airão": {
-   "pm": 33.9,
+   "pm": 35.2,
    "n": 2,
    "nivel": "Moderada"
   },
   "Novo Aripuanã": {
-   "pm": 56.4,
+   "pm": 44.0,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Parintins": {
-   "pm": 85.5,
+   "pm": 97.2,
    "n": 3,
    "nivel": "Muito Ruim"
   },
   "Pauini": {
-   "pm": 14.8,
+   "pm": 17.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 18.7,
+   "pm": 19.0,
    "n": 1,
    "nivel": "Boa"
   },
   "Rio Preto da Eva": {
-   "pm": 54.2,
+   "pm": 55.1,
    "n": 1,
    "nivel": "Ruim"
   },
   "Santo Antônio do Içá": {
-   "pm": 19.5,
+   "pm": 28.3,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Silves": {
-   "pm": 63.0,
+   "pm": 66.8,
    "n": 2,
    "nivel": "Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 11.8,
+   "pm": 16.5,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 19.7,
+   "pm": 20.2,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 53.4,
+   "pm": 55.2,
    "n": 3,
    "nivel": "Ruim"
   },
   "Tabatinga": {
-   "pm": 21.9,
+   "pm": 31.7,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Tapauá": {
-   "pm": 20.4,
+   "pm": 21.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Tefé": {
-   "pm": 7.8,
+   "pm": 8.2,
    "n": 2,
    "nivel": "Boa"
   },
   "Urucurituba": {
-   "pm": 48.3,
+   "pm": 48.0,
    "n": 1,
    "nivel": "Moderada"
   }
