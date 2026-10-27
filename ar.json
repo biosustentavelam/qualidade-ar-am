@@ -1,121 +1,126 @@
 {
- "quando": "2026-10-27T09:19",
+ "quando": "2026-10-27T10:15",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
+  "Alvarães": {
+   "pm": 7.9,
+   "n": 1,
+   "nivel": "Boa"
+  },
   "Anamã": {
-   "pm": 6.2,
+   "pm": 6.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 65.0,
+   "pm": 81.1,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "Barcelos": {
-   "pm": 8.0,
+   "pm": 10.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Barreirinha": {
-   "pm": 57.1,
+   "pm": 63.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Benjamin Constant": {
-   "pm": 15.8,
+   "pm": 15.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Beruri": {
-   "pm": 0.3,
+   "pm": 0.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Boa Vista do Ramos": {
-   "pm": 52.8,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Boca do Acre": {
-   "pm": 51.5,
-   "n": 2,
-   "nivel": "Ruim"
-  },
-  "Borba": {
-   "pm": 32.7,
+   "pm": 48.3,
    "n": 1,
    "nivel": "Moderada"
   },
+  "Boca do Acre": {
+   "pm": 48.9,
+   "n": 2,
+   "nivel": "Moderada"
+  },
+  "Borba": {
+   "pm": 59.1,
+   "n": 1,
+   "nivel": "Ruim"
+  },
   "Canutama": {
-   "pm": 14.6,
+   "pm": 16.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 15.9,
+   "pm": 12.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Careiro": {
-   "pm": 32.2,
+   "pm": 32.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro da Várzea": {
-   "pm": 41.5,
+   "pm": 46.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Guajará": {
-   "pm": 25.8,
+   "pm": 26.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Humaitá": {
-   "pm": 33.3,
+   "pm": 34.7,
    "n": 3,
    "nivel": "Moderada"
   },
   "Iranduba": {
-   "pm": 78.3,
+   "pm": 105.8,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 102.1,
+   "pm": 98.1,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itapiranga": {
-   "pm": 108.5,
+   "pm": 103.6,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 12.0,
+   "pm": 15.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Lábrea": {
-   "pm": 11.2,
+   "pm": 14.5,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 29.7,
+   "pm": 31.7,
    "n": 1,
    "nivel": "Moderada"
   },
   "Manaus": {
-   "pm": 34.9,
-   "n": 14,
+   "pm": 37.9,
+   "n": 13,
    "nivel": "Moderada"
   },
   "Manicoré": {
-   "pm": 58.9,
+   "pm": 38.5,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Maraã": {
    "pm": 6.2,
@@ -123,87 +128,87 @@
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 99.7,
+   "pm": 81.2,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "Nhamundá": {
-   "pm": 82.6,
+   "pm": 96.2,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Novo Airão": {
-   "pm": 17.1,
+   "pm": 23.8,
    "n": 2,
    "nivel": "Boa"
   },
   "Novo Aripuanã": {
-   "pm": 40.3,
+   "pm": 37.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Parintins": {
-   "pm": 84.8,
+   "pm": 88.9,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "Pauini": {
-   "pm": 19.1,
+   "pm": 17.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 25.0,
+   "pm": 34.2,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Rio Preto da Eva": {
-   "pm": 40.1,
+   "pm": 43.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Santo Antônio do Içá": {
-   "pm": 7.7,
+   "pm": 7.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 71.0,
+   "pm": 87.3,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 11.6,
+   "pm": 7.2,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 9.3,
+   "pm": 9.8,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 62.1,
+   "pm": 61.7,
    "n": 3,
    "nivel": "Ruim"
   },
   "Tabatinga": {
-   "pm": 15.0,
+   "pm": 13.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 24.8,
+   "pm": 23.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Tefé": {
-   "pm": 11.4,
+   "pm": 9.4,
    "n": 2,
    "nivel": "Boa"
   },
   "Urucurituba": {
-   "pm": 73.0,
+   "pm": 62.5,
    "n": 1,
    "nivel": "Ruim"
   }
