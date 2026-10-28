@@ -1,219 +1,219 @@
 {
- "quando": "2026-10-28T10:31",
+ "quando": "2026-10-28T11:31",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 13.9,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Anamã": {
-   "pm": 24.3,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Autazes": {
-   "pm": 50.8,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Barcelos": {
-   "pm": 20.3,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Barreirinha": {
-   "pm": 73.2,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Benjamin Constant": {
-   "pm": 12.5,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Beruri": {
-   "pm": 1.4,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Boa Vista do Ramos": {
-   "pm": 53.3,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Boca do Acre": {
-   "pm": 54.5,
-   "n": 2,
-   "nivel": "Ruim"
-  },
-  "Borba": {
-   "pm": 43.7,
-   "n": 1,
-   "nivel": "Moderada"
-  },
-  "Canutama": {
-   "pm": 14.0,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Carauari": {
-   "pm": 15.6,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Careiro": {
-   "pm": 50.7,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Careiro da Várzea": {
-   "pm": 68.4,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Guajará": {
-   "pm": 13.7,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Humaitá": {
-   "pm": 26.1,
-   "n": 3,
-   "nivel": "Moderada"
-  },
-  "Iranduba": {
-   "pm": 153.0,
-   "n": 1,
-   "nivel": "Péssimo"
-  },
-  "Itacoatiara": {
-   "pm": 53.9,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Itapiranga": {
-   "pm": 62.4,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Japurá": {
-   "pm": 20.2,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Lábrea": {
-   "pm": 14.2,
-   "n": 2,
-   "nivel": "Boa"
-  },
-  "Manaquiri": {
-   "pm": 49.7,
-   "n": 1,
-   "nivel": "Moderada"
-  },
-  "Manaus": {
-   "pm": 57.9,
-   "n": 14,
-   "nivel": "Ruim"
-  },
-  "Manicoré": {
-   "pm": 39.0,
-   "n": 2,
-   "nivel": "Moderada"
-  },
-  "Maraã": {
-   "pm": 6.7,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Maués": {
-   "pm": 57.5,
-   "n": 2,
-   "nivel": "Ruim"
-  },
-  "Nhamundá": {
-   "pm": 60.0,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Nova Olinda do Norte": {
-   "pm": 56.2,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Novo Airão": {
-   "pm": 43.4,
-   "n": 2,
-   "nivel": "Moderada"
-  },
-  "Novo Aripuanã": {
-   "pm": 55.1,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Parintins": {
-   "pm": 110.6,
-   "n": 2,
-   "nivel": "Muito Ruim"
-  },
-  "Pauini": {
-   "pm": 20.9,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Presidente Figueiredo": {
-   "pm": 49.0,
-   "n": 1,
-   "nivel": "Moderada"
-  },
-  "Rio Preto da Eva": {
-   "pm": 60.5,
-   "n": 1,
-   "nivel": "Ruim"
-  },
-  "Santo Antônio do Içá": {
-   "pm": 14.2,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Silves": {
-   "pm": 61.9,
-   "n": 2,
-   "nivel": "Ruim"
-  },
-  "São Gabriel da Cachoeira": {
-   "pm": 12.0,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "São Paulo de Olivença": {
    "pm": 14.5,
    "n": 1,
    "nivel": "Boa"
   },
-  "São Sebastião do Uatumã": {
+  "Anamã": {
+   "pm": 24.5,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Autazes": {
    "pm": 54.5,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Barcelos": {
+   "pm": 19.9,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Barreirinha": {
+   "pm": 63.0,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Benjamin Constant": {
+   "pm": 12.9,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Beruri": {
+   "pm": 2.6,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Boa Vista do Ramos": {
+   "pm": 43.7,
+   "n": 1,
+   "nivel": "Moderada"
+  },
+  "Boca do Acre": {
+   "pm": 50.8,
+   "n": 2,
+   "nivel": "Ruim"
+  },
+  "Borba": {
+   "pm": 41.4,
+   "n": 1,
+   "nivel": "Moderada"
+  },
+  "Canutama": {
+   "pm": 10.6,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Carauari": {
+   "pm": 15.3,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Careiro": {
+   "pm": 51.1,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Careiro da Várzea": {
+   "pm": 62.8,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Guajará": {
+   "pm": 10.6,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Humaitá": {
+   "pm": 26.8,
+   "n": 3,
+   "nivel": "Moderada"
+  },
+  "Iranduba": {
+   "pm": 124.4,
+   "n": 1,
+   "nivel": "Muito Ruim"
+  },
+  "Itacoatiara": {
+   "pm": 60.5,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Itapiranga": {
+   "pm": 50.4,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Japurá": {
+   "pm": 19.6,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Lábrea": {
+   "pm": 15.0,
+   "n": 2,
+   "nivel": "Boa"
+  },
+  "Manaquiri": {
+   "pm": 51.7,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Manaus": {
+   "pm": 59.7,
+   "n": 15,
+   "nivel": "Ruim"
+  },
+  "Manicoré": {
+   "pm": 39.8,
+   "n": 2,
+   "nivel": "Moderada"
+  },
+  "Maraã": {
+   "pm": 8.6,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Maués": {
+   "pm": 50.8,
+   "n": 2,
+   "nivel": "Ruim"
+  },
+  "Nhamundá": {
+   "pm": 59.8,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Nova Olinda do Norte": {
+   "pm": 55.7,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Novo Airão": {
+   "pm": 42.8,
+   "n": 2,
+   "nivel": "Moderada"
+  },
+  "Novo Aripuanã": {
+   "pm": 52.2,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Parintins": {
+   "pm": 139.3,
+   "n": 2,
+   "nivel": "Péssimo"
+  },
+  "Pauini": {
+   "pm": 23.5,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Presidente Figueiredo": {
+   "pm": 48.6,
+   "n": 2,
+   "nivel": "Moderada"
+  },
+  "Rio Preto da Eva": {
+   "pm": 62.1,
+   "n": 1,
+   "nivel": "Ruim"
+  },
+  "Santo Antônio do Içá": {
+   "pm": 17.2,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Silves": {
+   "pm": 62.0,
+   "n": 2,
+   "nivel": "Ruim"
+  },
+  "São Gabriel da Cachoeira": {
+   "pm": 11.3,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "São Paulo de Olivença": {
+   "pm": 17.8,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "São Sebastião do Uatumã": {
+   "pm": 53.0,
    "n": 3,
    "nivel": "Ruim"
   },
   "Tabatinga": {
-   "pm": 12.0,
+   "pm": 14.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 13.6,
+   "pm": 14.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Tefé": {
-   "pm": 19.1,
+   "pm": 19.6,
    "n": 2,
    "nivel": "Boa"
   },
   "Urucurituba": {
-   "pm": 46.7,
+   "pm": 48.4,
    "n": 1,
    "nivel": "Moderada"
   }
