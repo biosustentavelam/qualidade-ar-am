@@ -1,144 +1,149 @@
 {
- "quando": "2026-10-29T14:15",
+ "quando": "2026-10-29T15:23",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 33.7,
+   "pm": 35.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Anamã": {
-   "pm": 15.0,
+   "pm": 17.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 62.4,
+   "pm": 64.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Barcelos": {
-   "pm": 31.2,
+   "pm": 32.1,
    "n": 1,
    "nivel": "Moderada"
   },
   "Barreirinha": {
-   "pm": 103.3,
+   "pm": 94.3,
    "n": 1,
    "nivel": "Muito Ruim"
   },
+  "Benjamin Constant": {
+   "pm": 12.8,
+   "n": 1,
+   "nivel": "Boa"
+  },
   "Beruri": {
-   "pm": 1.6,
+   "pm": 2.2,
    "n": 1,
    "nivel": "Boa"
   },
   "Boa Vista do Ramos": {
-   "pm": 63.3,
+   "pm": 87.4,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "Boca do Acre": {
-   "pm": 41.0,
+   "pm": 42.5,
    "n": 2,
    "nivel": "Moderada"
   },
   "Borba": {
-   "pm": 38.7,
+   "pm": 34.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 13.6,
+   "pm": 14.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 22.3,
+   "pm": 23.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Careiro": {
-   "pm": 50.4,
+   "pm": 51.4,
    "n": 1,
    "nivel": "Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 54.9,
+   "pm": 64.2,
    "n": 1,
    "nivel": "Ruim"
   },
   "Guajará": {
-   "pm": 6.2,
+   "pm": 6.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 22.4,
+   "pm": 28.5,
    "n": 3,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Iranduba": {
-   "pm": 109.6,
+   "pm": 95.2,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 69.1,
+   "pm": 63.0,
    "n": 1,
    "nivel": "Ruim"
   },
   "Itapiranga": {
-   "pm": 80.6,
+   "pm": 104.4,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 25.5,
+   "pm": 29.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Jutaí": {
-   "pm": 26.2,
+   "pm": 29.7,
    "n": 1,
    "nivel": "Moderada"
   },
   "Lábrea": {
-   "pm": 16.2,
+   "pm": 17.3,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 49.9,
+   "pm": 48.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Manaus": {
-   "pm": 53.7,
-   "n": 9,
+   "pm": 56.5,
+   "n": 10,
    "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 27.1,
+   "pm": 35.7,
    "n": 2,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 13.8,
+   "pm": 16.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 67.8,
+   "pm": 88.3,
    "n": 2,
-   "nivel": "Ruim"
-  },
-  "Nova Olinda do Norte": {
-   "pm": 90.3,
-   "n": 1,
    "nivel": "Muito Ruim"
   },
+  "Nova Olinda do Norte": {
+   "pm": 68.4,
+   "n": 1,
+   "nivel": "Ruim"
+  },
   "Novo Airão": {
-   "pm": 41.5,
+   "pm": 43.2,
    "n": 2,
    "nivel": "Moderada"
   },
@@ -148,67 +153,67 @@
    "nivel": "Moderada"
   },
   "Parintins": {
-   "pm": 88.7,
+   "pm": 81.8,
    "n": 3,
    "nivel": "Muito Ruim"
   },
   "Pauini": {
-   "pm": 14.1,
+   "pm": 16.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 49.3,
+   "pm": 55.5,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Rio Preto da Eva": {
-   "pm": 58.5,
+   "pm": 60.5,
    "n": 1,
    "nivel": "Ruim"
   },
   "Santo Antônio do Içá": {
-   "pm": 19.0,
+   "pm": 19.2,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 61.7,
+   "pm": 57.8,
    "n": 2,
    "nivel": "Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 8.9,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "São Paulo de Olivença": {
-   "pm": 21.0,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "São Sebastião do Uatumã": {
-   "pm": 77.8,
-   "n": 3,
-   "nivel": "Muito Ruim"
-  },
-  "Tabatinga": {
    "pm": 13.5,
    "n": 1,
    "nivel": "Boa"
   },
+  "São Paulo de Olivença": {
+   "pm": 21.6,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "São Sebastião do Uatumã": {
+   "pm": 81.3,
+   "n": 3,
+   "nivel": "Muito Ruim"
+  },
+  "Tabatinga": {
+   "pm": 15.7,
+   "n": 1,
+   "nivel": "Boa"
+  },
   "Tapauá": {
-   "pm": 32.4,
+   "pm": 32.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 35.2,
+   "pm": 35.4,
    "n": 2,
    "nivel": "Moderada"
   },
   "Urucurituba": {
-   "pm": 47.7,
+   "pm": 48.6,
    "n": 1,
    "nivel": "Moderada"
   }
