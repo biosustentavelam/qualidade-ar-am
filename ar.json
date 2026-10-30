@@ -1,214 +1,219 @@
 {
- "quando": "2026-10-29T23:36",
+ "quando": "2026-10-30T00:26",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 89.1,
+   "pm": 66.5,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Ruim"
   },
   "Anamã": {
-   "pm": 12.8,
+   "pm": 12.5,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Atalaia do Norte": {
+   "pm": 0.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 64.1,
+   "pm": 58.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Barcelos": {
-   "pm": 31.3,
+   "pm": 33.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Barreirinha": {
-   "pm": 217.9,
+   "pm": 225.8,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Benjamin Constant": {
-   "pm": 20.9,
+   "pm": 15.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Beruri": {
-   "pm": 0.7,
+   "pm": 1.2,
    "n": 1,
    "nivel": "Boa"
   },
   "Boca do Acre": {
-   "pm": 44.6,
+   "pm": 45.5,
    "n": 2,
    "nivel": "Moderada"
   },
   "Borba": {
-   "pm": 41.4,
+   "pm": 45.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 14.9,
+   "pm": 14.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 27.0,
+   "pm": 29.8,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro": {
-   "pm": 39.9,
+   "pm": 41.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro da Várzea": {
-   "pm": 49.1,
+   "pm": 49.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Guajará": {
-   "pm": 6.1,
+   "pm": 8.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 47.7,
+   "pm": 45.4,
    "n": 3,
    "nivel": "Moderada"
   },
   "Iranduba": {
-   "pm": 91.9,
+   "pm": 118.9,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 59.2,
+   "pm": 58.1,
    "n": 1,
    "nivel": "Ruim"
   },
   "Itapiranga": {
-   "pm": 79.1,
+   "pm": 79.9,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 8.8,
+   "pm": 10.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Jutaí": {
-   "pm": 37.5,
+   "pm": 33.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Lábrea": {
-   "pm": 13.4,
+   "pm": 12.6,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 53.4,
+   "pm": 50.3,
    "n": 1,
    "nivel": "Ruim"
   },
   "Manaus": {
-   "pm": 51.8,
-   "n": 11,
+   "pm": 55.0,
+   "n": 10,
    "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 34.6,
+   "pm": 33.8,
    "n": 2,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 15.8,
+   "pm": 14.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 123.8,
+   "pm": 79.0,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "Nova Olinda do Norte": {
-   "pm": 44.0,
+   "pm": 42.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Novo Airão": {
-   "pm": 41.9,
+   "pm": 43.2,
    "n": 2,
    "nivel": "Moderada"
   },
   "Novo Aripuanã": {
-   "pm": 61.4,
+   "pm": 52.4,
    "n": 1,
    "nivel": "Ruim"
   },
   "Parintins": {
-   "pm": 301.5,
+   "pm": 237.2,
    "n": 3,
    "nivel": "Péssimo"
   },
   "Pauini": {
-   "pm": 17.0,
+   "pm": 15.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 50.7,
+   "pm": 47.8,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Rio Preto da Eva": {
-   "pm": 60.1,
+   "pm": 57.3,
    "n": 1,
    "nivel": "Ruim"
   },
   "Santo Antônio do Içá": {
-   "pm": 15.1,
+   "pm": 13.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 67.5,
+   "pm": 67.2,
    "n": 2,
    "nivel": "Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 12.4,
+   "pm": 13.7,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 15.1,
+   "pm": 17.0,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 84.4,
+   "pm": 89.5,
    "n": 3,
    "nivel": "Muito Ruim"
   },
   "Tabatinga": {
-   "pm": 16.4,
+   "pm": 11.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 27.2,
+   "pm": 27.7,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 33.9,
+   "pm": 30.9,
    "n": 2,
    "nivel": "Moderada"
   },
   "Urucurituba": {
-   "pm": 48.4,
+   "pm": 46.6,
    "n": 1,
    "nivel": "Moderada"
   }
