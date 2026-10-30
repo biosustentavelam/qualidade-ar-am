@@ -1,211 +1,206 @@
 {
- "quando": "2026-10-30T09:41",
+ "quando": "2026-10-30T10:36",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 29.2,
+   "pm": 33.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Anamã": {
-   "pm": 12.7,
+   "pm": 12.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 49.3,
-   "n": 1,
-   "nivel": "Moderada"
-  },
-  "Barcelos": {
-   "pm": 39.2,
+   "pm": 44.1,
    "n": 1,
    "nivel": "Moderada"
   },
   "Barreirinha": {
-   "pm": 124.4,
+   "pm": 77.7,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Beruri": {
-   "pm": 0.4,
+   "pm": 0.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Boa Vista do Ramos": {
-   "pm": 85.1,
-   "n": 1,
-   "nivel": "Muito Ruim"
-  },
-  "Boca do Acre": {
-   "pm": 40.3,
-   "n": 2,
-   "nivel": "Moderada"
-  },
-  "Borba": {
-   "pm": 62.4,
+   "pm": 74.5,
    "n": 1,
    "nivel": "Ruim"
   },
+  "Boca do Acre": {
+   "pm": 62.7,
+   "n": 2,
+   "nivel": "Ruim"
+  },
+  "Borba": {
+   "pm": 49.5,
+   "n": 1,
+   "nivel": "Moderada"
+  },
   "Canutama": {
-   "pm": 11.0,
+   "pm": 11.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 22.2,
+   "pm": 21.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Careiro": {
-   "pm": 47.9,
+   "pm": 46.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro da Várzea": {
-   "pm": 88.3,
+   "pm": 43.3,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Moderada"
   },
   "Guajará": {
-   "pm": 6.1,
+   "pm": 5.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 22.8,
+   "pm": 23.9,
    "n": 3,
    "nivel": "Boa"
   },
   "Itacoatiara": {
-   "pm": 81.4,
+   "pm": 104.2,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itapiranga": {
-   "pm": 87.8,
+   "pm": 77.1,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 12.8,
+   "pm": 13.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Jutaí": {
-   "pm": 22.4,
+   "pm": 23.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Lábrea": {
-   "pm": 9.8,
+   "pm": 8.7,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 48.0,
+   "pm": 49.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Manaus": {
-   "pm": 58.2,
+   "pm": 64.3,
    "n": 11,
    "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 24.9,
+   "pm": 25.2,
    "n": 2,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 19.2,
+   "pm": 18.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 144.2,
-   "n": 1,
+   "pm": 136.9,
+   "n": 2,
    "nivel": "Péssimo"
   },
   "Nova Olinda do Norte": {
-   "pm": 54.7,
+   "pm": 48.2,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Novo Airão": {
-   "pm": 40.2,
+   "pm": 44.1,
    "n": 2,
    "nivel": "Moderada"
   },
   "Novo Aripuanã": {
-   "pm": 30.2,
+   "pm": 29.1,
    "n": 1,
    "nivel": "Moderada"
   },
   "Parintins": {
-   "pm": 92.8,
+   "pm": 64.5,
    "n": 3,
-   "nivel": "Muito Ruim"
+   "nivel": "Ruim"
   },
   "Pauini": {
-   "pm": 21.2,
+   "pm": 15.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 43.7,
+   "pm": 42.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Rio Preto da Eva": {
-   "pm": 69.8,
+   "pm": 80.7,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "Santo Antônio do Içá": {
-   "pm": 13.2,
+   "pm": 14.0,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 93.0,
+   "pm": 79.5,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 6.5,
+   "pm": 7.0,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 13.7,
+   "pm": 15.7,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 57.6,
+   "pm": 52.2,
    "n": 3,
    "nivel": "Ruim"
   },
   "Tabatinga": {
-   "pm": 8.9,
+   "pm": 9.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 37.4,
+   "pm": 36.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 33.4,
+   "pm": 36.9,
    "n": 2,
    "nivel": "Moderada"
   },
   "Urucurituba": {
-   "pm": 64.6,
+   "pm": 77.5,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   }
  }
 }
