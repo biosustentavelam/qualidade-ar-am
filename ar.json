@@ -1,209 +1,209 @@
 {
- "quando": "2026-11-03T17:58",
+ "quando": "2026-11-03T18:39",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
-  "Alvarães": {
-   "pm": 25.4,
-   "n": 1,
-   "nivel": "Moderada"
-  },
   "Anamã": {
-   "pm": 6.5,
+   "pm": 13.8,
+   "n": 1,
+   "nivel": "Boa"
+  },
+  "Atalaia do Norte": {
+   "pm": 0.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 64.4,
+   "pm": 58.3,
    "n": 1,
    "nivel": "Ruim"
   },
   "Barcelos": {
-   "pm": 31.2,
+   "pm": 30.7,
    "n": 1,
    "nivel": "Moderada"
   },
-  "Boa Vista do Ramos": {
-   "pm": 44.5,
+  "Beruri": {
+   "pm": 0.1,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Boa"
   },
   "Boca do Acre": {
-   "pm": 61.5,
+   "pm": 43.5,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Borba": {
-   "pm": 35.2,
+   "pm": 37.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 11.7,
+   "pm": 12.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 12.6,
+   "pm": 19.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Careiro": {
-   "pm": 35.8,
+   "pm": 36.1,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro da Várzea": {
-   "pm": 37.5,
+   "pm": 37.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Guajará": {
-   "pm": 7.1,
+   "pm": 11.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 23.3,
+   "pm": 16.1,
    "n": 3,
    "nivel": "Boa"
   },
   "Iranduba": {
-   "pm": 87.0,
+   "pm": 87.9,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 48.9,
+   "pm": 48.8,
    "n": 1,
    "nivel": "Moderada"
   },
   "Itapiranga": {
-   "pm": 76.9,
+   "pm": 78.5,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Japurá": {
-   "pm": 29.6,
+   "pm": 33.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Lábrea": {
-   "pm": 21.6,
+   "pm": 20.8,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 36.5,
+   "pm": 40.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Manaus": {
-   "pm": 32.2,
+   "pm": 33.7,
    "n": 11,
    "nivel": "Moderada"
   },
   "Manicoré": {
-   "pm": 25.4,
-   "n": 1,
+   "pm": 28.6,
+   "n": 2,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 10.4,
+   "pm": 12.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 36.8,
+   "pm": 33.4,
    "n": 2,
    "nivel": "Moderada"
   },
   "Nhamundá": {
-   "pm": 29.9,
+   "pm": 66.5,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Nova Olinda do Norte": {
-   "pm": 57.4,
+   "pm": 60.2,
    "n": 1,
    "nivel": "Ruim"
   },
   "Novo Airão": {
-   "pm": 25.1,
+   "pm": 26.2,
    "n": 2,
    "nivel": "Moderada"
   },
   "Novo Aripuanã": {
-   "pm": 27.7,
+   "pm": 28.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Parintins": {
-   "pm": 74.8,
+   "pm": 109.2,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "Pauini": {
-   "pm": 17.3,
+   "pm": 17.0,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 19.6,
+   "pm": 22.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Rio Preto da Eva": {
-   "pm": 39.5,
+   "pm": 41.8,
    "n": 1,
    "nivel": "Moderada"
   },
   "Santa Isabel do Rio Negro": {
-   "pm": 0.3,
+   "pm": 0.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Santo Antônio do Içá": {
-   "pm": 20.7,
+   "pm": 37.0,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Silves": {
-   "pm": 75.5,
+   "pm": 72.0,
    "n": 2,
-   "nivel": "Muito Ruim"
+   "nivel": "Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 10.2,
+   "pm": 14.4,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 16.7,
+   "pm": 24.9,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 42.5,
+   "pm": 44.6,
    "n": 3,
    "nivel": "Moderada"
   },
   "Tabatinga": {
-   "pm": 13.1,
+   "pm": 16.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 24.4,
+   "pm": 21.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Tefé": {
-   "pm": 7.4,
+   "pm": 8.2,
    "n": 2,
    "nivel": "Boa"
   },
   "Urucurituba": {
-   "pm": 42.2,
+   "pm": 34.6,
    "n": 1,
    "nivel": "Moderada"
   }
