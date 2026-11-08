@@ -1,119 +1,119 @@
 {
- "quando": "2026-11-08T11:15",
+ "quando": "2026-11-08T12:01",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 31.2,
+   "pm": 33.4,
    "n": 1,
    "nivel": "Moderada"
   },
   "Anamã": {
-   "pm": 21.9,
+   "pm": 25.7,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Autazes": {
-   "pm": 61.9,
+   "pm": 56.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Barcelos": {
-   "pm": 29.3,
+   "pm": 30.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Barreirinha": {
-   "pm": 66.8,
+   "pm": 41.8,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Benjamin Constant": {
-   "pm": 15.9,
+   "pm": 18.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Beruri": {
-   "pm": 0.9,
+   "pm": 2.2,
    "n": 1,
    "nivel": "Boa"
   },
   "Boca do Acre": {
-   "pm": 114.0,
+   "pm": 58.5,
    "n": 2,
-   "nivel": "Muito Ruim"
+   "nivel": "Ruim"
   },
   "Borba": {
-   "pm": 55.4,
+   "pm": 55.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Canutama": {
-   "pm": 23.2,
+   "pm": 27.9,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Carauari": {
-   "pm": 33.2,
+   "pm": 34.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Careiro": {
-   "pm": 60.1,
+   "pm": 64.1,
    "n": 1,
    "nivel": "Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 114.3,
+   "pm": 114.7,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Guajará": {
-   "pm": 12.0,
+   "pm": 12.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 41.5,
+   "pm": 41.7,
    "n": 2,
    "nivel": "Moderada"
   },
   "Iranduba": {
-   "pm": 102.0,
+   "pm": 115.0,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 193.8,
+   "pm": 104.4,
    "n": 1,
-   "nivel": "Péssimo"
+   "nivel": "Muito Ruim"
   },
   "Itapiranga": {
-   "pm": 57.3,
+   "pm": 62.0,
    "n": 1,
    "nivel": "Ruim"
   },
   "Japurá": {
-   "pm": 19.7,
+   "pm": 21.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Lábrea": {
-   "pm": 22.2,
+   "pm": 23.6,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 69.3,
+   "pm": 66.3,
    "n": 1,
    "nivel": "Ruim"
   },
   "Manaus": {
-   "pm": 94.5,
+   "pm": 99.2,
    "n": 10,
    "nivel": "Muito Ruim"
   },
   "Manicoré": {
-   "pm": 42.8,
+   "pm": 42.6,
    "n": 2,
    "nivel": "Moderada"
   },
@@ -123,92 +123,92 @@
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 104.7,
+   "pm": 106.8,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "Nova Olinda do Norte": {
-   "pm": 82.9,
+   "pm": 79.7,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Novo Airão": {
-   "pm": 42.5,
+   "pm": 50.3,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Novo Aripuanã": {
-   "pm": 48.9,
+   "pm": 55.2,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Parintins": {
-   "pm": 49.5,
+   "pm": 77.3,
    "n": 2,
-   "nivel": "Moderada"
+   "nivel": "Muito Ruim"
   },
   "Pauini": {
-   "pm": 15.0,
+   "pm": 19.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 58.4,
+   "pm": 50.7,
    "n": 1,
    "nivel": "Ruim"
   },
   "Santa Isabel do Rio Negro": {
-   "pm": 0.6,
+   "pm": 0.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Santo Antônio do Içá": {
-   "pm": 19.0,
+   "pm": 22.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 67.7,
+   "pm": 53.2,
    "n": 2,
    "nivel": "Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 5.4,
+   "pm": 7.4,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 16.8,
+   "pm": 17.4,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 47.5,
+   "pm": 44.5,
    "n": 2,
    "nivel": "Moderada"
   },
   "Tabatinga": {
-   "pm": 15.8,
+   "pm": 17.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 32.7,
+   "pm": 41.8,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 33.6,
+   "pm": 35.7,
    "n": 2,
    "nivel": "Moderada"
   },
   "Uarini": {
-   "pm": 35.4,
+   "pm": 35.3,
    "n": 1,
    "nivel": "Moderada"
   },
   "Urucurituba": {
-   "pm": 159.4,
+   "pm": 152.5,
    "n": 1,
    "nivel": "Péssimo"
   }
