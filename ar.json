@@ -1,159 +1,159 @@
 {
- "quando": "2026-11-09T14:42",
+ "quando": "2026-11-09T15:41",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 19.4,
+   "pm": 20.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Anamã": {
-   "pm": 27.2,
+   "pm": 22.8,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Boa"
   },
   "Autazes": {
-   "pm": 50.1,
+   "pm": 50.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Barcelos": {
-   "pm": 38.7,
+   "pm": 22.1,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Boa"
   },
   "Barreirinha": {
-   "pm": 181.7,
+   "pm": 167.8,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Benjamin Constant": {
-   "pm": 20.3,
+   "pm": 22.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Beruri": {
-   "pm": 2.3,
+   "pm": 3.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Boa Vista do Ramos": {
-   "pm": 156.0,
+   "pm": 138.8,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Boca do Acre": {
-   "pm": 38.0,
+   "pm": 35.6,
    "n": 2,
    "nivel": "Moderada"
   },
   "Borba": {
-   "pm": 39.6,
+   "pm": 36.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 13.6,
+   "pm": 14.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 19.7,
+   "pm": 25.3,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Careiro": {
-   "pm": 52.4,
+   "pm": 55.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 55.9,
+   "pm": 53.4,
    "n": 1,
    "nivel": "Ruim"
   },
   "Guajará": {
-   "pm": 6.9,
+   "pm": 5.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 24.8,
+   "pm": 25.6,
    "n": 2,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Iranduba": {
-   "pm": 101.6,
+   "pm": 92.6,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 103.4,
+   "pm": 129.3,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Péssimo"
   },
   "Itapiranga": {
-   "pm": 194.2,
+   "pm": 176.2,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Japurá": {
-   "pm": 28.6,
+   "pm": 29.7,
    "n": 1,
    "nivel": "Moderada"
   },
   "Lábrea": {
-   "pm": 9.9,
+   "pm": 10.6,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 52.6,
+   "pm": 42.2,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Manaus": {
-   "pm": 60.0,
+   "pm": 53.2,
    "n": 10,
    "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 31.5,
+   "pm": 32.8,
    "n": 2,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 19.7,
+   "pm": 19.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 92.0,
+   "pm": 93.2,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "Nhamundá": {
-   "pm": 34.2,
+   "pm": 34.9,
    "n": 1,
    "nivel": "Moderada"
   },
   "Nova Olinda do Norte": {
-   "pm": 73.3,
+   "pm": 47.7,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Novo Airão": {
-   "pm": 53.4,
+   "pm": 50.4,
    "n": 2,
    "nivel": "Ruim"
   },
   "Novo Aripuanã": {
-   "pm": 54.7,
+   "pm": 48.7,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Parintins": {
-   "pm": 108.8,
+   "pm": 101.8,
    "n": 2,
    "nivel": "Muito Ruim"
   },
@@ -163,57 +163,57 @@
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 77.2,
+   "pm": 31.8,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Moderada"
   },
   "Santa Isabel do Rio Negro": {
-   "pm": 0.4,
+   "pm": 0.2,
    "n": 1,
    "nivel": "Boa"
   },
   "Santo Antônio do Içá": {
-   "pm": 20.8,
+   "pm": 21.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 172.0,
+   "pm": 211.1,
    "n": 2,
    "nivel": "Péssimo"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 5.7,
+   "pm": 17.9,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 24.8,
+   "pm": 28.9,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "São Sebastião do Uatumã": {
-   "pm": 102.0,
+   "pm": 109.2,
    "n": 3,
    "nivel": "Muito Ruim"
   },
   "Tabatinga": {
-   "pm": 18.3,
+   "pm": 18.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 33.3,
+   "pm": 35.8,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 19.6,
+   "pm": 19.3,
    "n": 2,
    "nivel": "Boa"
   },
   "Uarini": {
-   "pm": 15.7,
+   "pm": 18.0,
    "n": 1,
    "nivel": "Boa"
   }
