@@ -1,59 +1,64 @@
 {
- "quando": "2026-11-09T13:49",
+ "quando": "2026-11-09T14:42",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Alvarães": {
-   "pm": 22.4,
+   "pm": 19.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Anamã": {
-   "pm": 30.1,
+   "pm": 27.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Autazes": {
-   "pm": 52.1,
+   "pm": 50.1,
    "n": 1,
    "nivel": "Ruim"
   },
   "Barcelos": {
-   "pm": 41.0,
+   "pm": 38.7,
    "n": 1,
    "nivel": "Moderada"
   },
   "Barreirinha": {
-   "pm": 223.2,
+   "pm": 181.7,
    "n": 1,
    "nivel": "Péssimo"
   },
+  "Benjamin Constant": {
+   "pm": 20.3,
+   "n": 1,
+   "nivel": "Boa"
+  },
   "Beruri": {
-   "pm": 1.4,
+   "pm": 2.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Boa Vista do Ramos": {
-   "pm": 165.0,
+   "pm": 156.0,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Boca do Acre": {
-   "pm": 39.9,
+   "pm": 38.0,
    "n": 2,
    "nivel": "Moderada"
   },
   "Borba": {
-   "pm": 37.7,
+   "pm": 39.6,
    "n": 1,
    "nivel": "Moderada"
   },
   "Canutama": {
-   "pm": 12.1,
+   "pm": 13.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Carauari": {
-   "pm": 17.3,
+   "pm": 19.7,
    "n": 1,
    "nivel": "Boa"
   },
@@ -63,152 +68,152 @@
    "nivel": "Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 79.4,
+   "pm": 55.9,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Ruim"
   },
   "Guajará": {
-   "pm": 8.1,
+   "pm": 6.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 21.1,
+   "pm": 24.8,
    "n": 2,
    "nivel": "Boa"
   },
   "Iranduba": {
-   "pm": 90.7,
+   "pm": 101.6,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itacoatiara": {
-   "pm": 102.2,
+   "pm": 103.4,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Itapiranga": {
-   "pm": 216.5,
+   "pm": 194.2,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Japurá": {
-   "pm": 24.2,
+   "pm": 28.6,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Lábrea": {
-   "pm": 9.8,
+   "pm": 9.9,
    "n": 2,
    "nivel": "Boa"
   },
   "Manaquiri": {
-   "pm": 57.6,
+   "pm": 52.6,
    "n": 1,
    "nivel": "Ruim"
   },
   "Manaus": {
-   "pm": 70.0,
+   "pm": 60.0,
    "n": 10,
    "nivel": "Ruim"
   },
   "Manicoré": {
-   "pm": 26.3,
+   "pm": 31.5,
    "n": 2,
    "nivel": "Moderada"
   },
   "Maraã": {
-   "pm": 18.7,
+   "pm": 19.7,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 88.0,
+   "pm": 92.0,
    "n": 2,
    "nivel": "Muito Ruim"
   },
   "Nhamundá": {
-   "pm": 45.4,
+   "pm": 34.2,
    "n": 1,
    "nivel": "Moderada"
   },
   "Nova Olinda do Norte": {
-   "pm": 63.7,
+   "pm": 73.3,
    "n": 1,
    "nivel": "Ruim"
   },
   "Novo Airão": {
-   "pm": 51.6,
+   "pm": 53.4,
    "n": 2,
    "nivel": "Ruim"
   },
   "Novo Aripuanã": {
-   "pm": 40.4,
+   "pm": 54.7,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Parintins": {
-   "pm": 206.4,
-   "n": 3,
-   "nivel": "Péssimo"
+   "pm": 108.8,
+   "n": 2,
+   "nivel": "Muito Ruim"
   },
   "Pauini": {
-   "pm": 14.0,
+   "pm": 12.9,
    "n": 1,
    "nivel": "Boa"
   },
   "Presidente Figueiredo": {
-   "pm": 98.2,
+   "pm": 77.2,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Santa Isabel do Rio Negro": {
-   "pm": 0.1,
+   "pm": 0.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Santo Antônio do Içá": {
-   "pm": 19.3,
+   "pm": 20.8,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 148.1,
+   "pm": 172.0,
    "n": 2,
    "nivel": "Péssimo"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 7.5,
+   "pm": 5.7,
    "n": 1,
    "nivel": "Boa"
   },
   "São Paulo de Olivença": {
-   "pm": 24.0,
+   "pm": 24.8,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 104.6,
+   "pm": 102.0,
    "n": 3,
    "nivel": "Muito Ruim"
   },
   "Tabatinga": {
-   "pm": 17.6,
+   "pm": 18.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 31.2,
+   "pm": 33.3,
    "n": 1,
    "nivel": "Moderada"
   },
   "Tefé": {
-   "pm": 20.4,
+   "pm": 19.6,
    "n": 2,
    "nivel": "Boa"
   },
   "Uarini": {
-   "pm": 12.9,
+   "pm": 15.7,
    "n": 1,
    "nivel": "Boa"
   }
