@@ -1,76 +1,71 @@
 {
- "quando": "2026-11-24T14:21",
+ "quando": "2026-11-24T22:41",
  "fonte": "PurpleAir (rede Selva/UEA)",
  "M": {
   "Anamã": {
-   "pm": 43.6,
+   "pm": 33.0,
    "n": 1,
    "nivel": "Moderada"
   },
   "Autazes": {
-   "pm": 77.4,
-   "n": 1,
-   "nivel": "Muito Ruim"
-  },
-  "Barcelos": {
-   "pm": 17.0,
-   "n": 1,
-   "nivel": "Boa"
-  },
-  "Barreirinha": {
-   "pm": 129.0,
+   "pm": 140.5,
    "n": 1,
    "nivel": "Péssimo"
   },
-  "Boa Vista do Ramos": {
-   "pm": 100.7,
+  "Barcelos": {
+   "pm": 27.5,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Moderada"
+  },
+  "Barreirinha": {
+   "pm": 303.3,
+   "n": 1,
+   "nivel": "Péssimo"
   },
   "Boca do Acre": {
-   "pm": 60.4,
+   "pm": 49.6,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Borba": {
-   "pm": 134.6,
+   "pm": 139.7,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Canutama": {
-   "pm": 36.9,
+   "pm": 36.8,
    "n": 1,
    "nivel": "Moderada"
   },
   "Carauari": {
-   "pm": 18.2,
+   "pm": 12.1,
    "n": 1,
    "nivel": "Boa"
   },
   "Careiro": {
-   "pm": 111.7,
+   "pm": 93.0,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Careiro da Várzea": {
-   "pm": 70.9,
+   "pm": 91.7,
    "n": 1,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "Coari": {
-   "pm": 33.7,
+   "pm": 34.5,
    "n": 1,
    "nivel": "Moderada"
   },
   "Guajará": {
-   "pm": 15.8,
+   "pm": 7.4,
    "n": 1,
    "nivel": "Boa"
   },
   "Humaitá": {
-   "pm": 64.8,
+   "pm": 49.7,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Moderada"
   },
   "Ipixuna": {
    "pm": 8.6,
@@ -78,124 +73,119 @@
    "nivel": "Boa"
   },
   "Iranduba": {
-   "pm": 123.1,
+   "pm": 175.3,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Péssimo"
   },
   "Itacoatiara": {
-   "pm": 91.6,
+   "pm": 99.6,
    "n": 1,
    "nivel": "Muito Ruim"
   },
-  "Lábrea": {
-   "pm": 60.8,
-   "n": 1,
-   "nivel": "Ruim"
-  },
   "Manaquiri": {
-   "pm": 117.1,
+   "pm": 98.4,
    "n": 1,
    "nivel": "Muito Ruim"
   },
   "Manaus": {
-   "pm": 67.4,
-   "n": 10,
-   "nivel": "Ruim"
-  },
-  "Manicoré": {
-   "pm": 89.3,
-   "n": 1,
+   "pm": 79.3,
+   "n": 12,
    "nivel": "Muito Ruim"
   },
+  "Manicoré": {
+   "pm": 60.1,
+   "n": 1,
+   "nivel": "Ruim"
+  },
   "Maraã": {
-   "pm": 8.9,
+   "pm": 11.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Maués": {
-   "pm": 210.1,
+   "pm": 279.2,
    "n": 2,
    "nivel": "Péssimo"
   },
   "Nhamundá": {
-   "pm": 151.9,
+   "pm": 131.0,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Nova Olinda do Norte": {
-   "pm": 241.0,
+   "pm": 199.1,
    "n": 1,
    "nivel": "Péssimo"
   },
   "Novo Aripuanã": {
-   "pm": 98.2,
+   "pm": 169.8,
    "n": 1,
-   "nivel": "Muito Ruim"
+   "nivel": "Péssimo"
   },
   "Parintins": {
-   "pm": 132.2,
-   "n": 2,
+   "pm": 332.4,
+   "n": 4,
    "nivel": "Péssimo"
   },
   "Pauini": {
-   "pm": 25.7,
+   "pm": 14.1,
    "n": 1,
-   "nivel": "Moderada"
+   "nivel": "Boa"
   },
   "Rio Preto da Eva": {
-   "pm": 52.0,
+   "pm": 60.9,
    "n": 1,
    "nivel": "Ruim"
   },
   "Santa Isabel do Rio Negro": {
-   "pm": 0.3,
+   "pm": 0.5,
    "n": 1,
    "nivel": "Boa"
   },
   "Santo Antônio do Içá": {
-   "pm": 11.8,
+   "pm": 21.3,
    "n": 1,
    "nivel": "Boa"
   },
   "Silves": {
-   "pm": 69.8,
+   "pm": 91.0,
    "n": 2,
-   "nivel": "Ruim"
+   "nivel": "Muito Ruim"
   },
   "São Gabriel da Cachoeira": {
-   "pm": 7.8,
+   "pm": 28.2,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "São Paulo de Olivença": {
-   "pm": 13.6,
+   "pm": 18.8,
    "n": 1,
    "nivel": "Boa"
   },
   "São Sebastião do Uatumã": {
-   "pm": 44.2,
+   "pm": 70.4,
    "n": 2,
-   "nivel": "Moderada"
+   "nivel": "Ruim"
   },
   "Tabatinga": {
-   "pm": 20.5,
+   "pm": 7.6,
    "n": 1,
    "nivel": "Boa"
   },
   "Tapauá": {
-   "pm": 58.0,
+   "pm": 65.7,
    "n": 1,
    "nivel": "Ruim"
   },
   "Tefé": {
-   "pm": 22.3,
+   "pm": 25.4,
    "n": 2,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   },
   "Uarini": {
-   "pm": 19.5,
+   "pm": 25.7,
    "n": 1,
-   "nivel": "Boa"
+   "nivel": "Moderada"
   }
  }
 }
